@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "treess",
+  "identifier": "texture:93310-b1b19c3c-7b7e-4de0-83b4-79dafe1c908b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "709061abda6242f3a90b319b1c0185e2",
+  "assetLocator": "textures/treess.jpeg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 259,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 194,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "709061abda6242f3a90b319b1c0185e2",
+      "colorCount": 12675,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.361533193876467,
+      "pixelsHigh": 259,
+      "pixelsWide": 194
+    }
+  ]
+}

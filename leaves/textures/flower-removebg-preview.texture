@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "flower-removebg-preview",
+  "identifier": "texture:92706-1a0b4a04-7503-4c98-8d6a-bb42fefdc5f5",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "65a5964f7667a8eca80381dcc253d2fd",
+  "assetLocator": "textures/flower-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 360,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 559,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "65a5964f7667a8eca80381dcc253d2fd",
+      "colorCount": 45750,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 9.764058255003517,
+      "pixelsHigh": 360,
+      "pixelsWide": 559
+    }
+  ]
+}

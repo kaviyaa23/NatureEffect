@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "leaves-removebg-preview",
+  "identifier": "texture:92619-52f4dc99-8254-4ff1-9013-bae52e0a884d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1bb12538078e8a74d5d402eba750a33f",
+  "assetLocator": "textures/leaves-removebg-preview.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 204,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 247,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1bb12538078e8a74d5d402eba750a33f",
+      "colorCount": 15047,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 5.864755503611407,
+      "pixelsHigh": 204,
+      "pixelsWide": 247
+    }
+  ]
+}

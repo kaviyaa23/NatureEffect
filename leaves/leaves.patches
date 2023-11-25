@@ -1,0 +1,39 @@
+{
+  "id": "9216052f4dc9982544ff19013bae52e0a884d",
+  "revision": "988731a0b4a0475034c988d6abb42fefdc5f5",
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 173
+  },
+  "creatorIdentifier": "com.facebook.arstudio.skylight",
+  "creatorPlatform": "windows",
+  "creatorFileVersion": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 173
+  },
+  "visual_programming": {
+    "graphs": [
+      {
+        "modelName": "patch_graph",
+        "identifier": "patch_graph:92252-52f4dc99-8254-4ff1-9013-bae52e0a884d",
+        "subpatches": [
+          "producer_patch_model:92536-b1b19c3c-7b7e-4de0-83b4-79dafe1c908b"
+        ]
+      }
+    ],
+    "patches": [
+      {
+        "modelName": "producer_patch_model",
+        "name": "emitter0",
+        "identifier": "producer_patch_model:92536-b1b19c3c-7b7e-4de0-83b4-79dafe1c908b",
+        "object": "emitter:92501-52f4dc99-8254-4ff1-9013-bae52e0a884d",
+        "position": [
+          83.07499999999999,
+          110.14999999999998
+        ]
+      }
+    ]
+  }
+}
